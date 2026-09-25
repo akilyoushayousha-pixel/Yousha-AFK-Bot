@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AFK",
     "password": "",
     "type": "offline"
   },
@@ -32,8 +32,11 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Bye",
+        "Hi",
+        "Welcome",
+        "How are you",
+        "I am fine"
       ]
     },
     "chat-log": true,
